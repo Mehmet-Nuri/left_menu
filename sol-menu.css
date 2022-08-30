@@ -21,7 +21,7 @@ body {
 .sol-menu .title {
   position: relative;
   background-color: rgb(184, 113, 0);
-  padding: 0.3rem;
+  padding: 0.5rem;
 }
 
 .sol-menu .title i {
@@ -35,7 +35,7 @@ body {
 }
 
 .sol-menu ul {
-  list-style-type: none;
+  list-style-type:none;
   margin: 0;
   padding: 0.5rem;
 }
